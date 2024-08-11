@@ -16,7 +16,6 @@ class BonusServiceTest {
 
         assertEquals(expected, actual);
 
-        //assertEquals(10, actual);
     }
     @Test
     void calculateBonus1() {
