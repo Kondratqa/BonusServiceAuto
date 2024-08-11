@@ -43,6 +43,5 @@ bin/
 /settings.gradle
 /.gradle/
 /build/
-/build.gradle
 /gradle/wrapper/
 /.idea/
